@@ -1,0 +1,2 @@
+table_add match_inport forward 4 => 2 
+table_add match_inport forward 2 => 4
